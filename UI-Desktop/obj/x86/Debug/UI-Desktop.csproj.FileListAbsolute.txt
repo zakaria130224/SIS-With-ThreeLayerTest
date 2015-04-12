@@ -1,0 +1,81 @@
+D:\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.exe
+D:\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.pdb
+D:\ThreeLayerTest\UI-Desktop\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Properties.Resources.resources
+D:\ThreeLayerTest\UI-Desktop\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ThreeLayerTest\UI-Desktop\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.exe
+D:\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.pdb
+D:\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Form1.resources
+D:\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Form2.resources
+D:\ThreeLayerTest\UI-Desktop\bin\Debug\BO.dll
+D:\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.dll
+D:\ThreeLayerTest\UI-Desktop\bin\Debug\BO.pdb
+D:\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.exe
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.exe
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\BO.dll
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.dll
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\BO.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csprojResolveAssemblyReference.cache
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Form1.resources
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Form2.resources
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Properties.Resources.resources
+C:\Users\Sabuj\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csproj.GenerateResource.Cache
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.exe
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.pdb
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.exe
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.pdb
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\bin\Debug\BO.dll
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.dll
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\bin\Debug\BO.pdb
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.pdb
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Properties.Resources.resources
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csproj.GenerateResource.Cache
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\obj\x86\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\UI-Desktop\obj\x86\Debug\WindowsFormsApplication2.ShowForm.resources
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.exe
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.pdb
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.exe
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.pdb
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\BO.dll
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.dll
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\BO.pdb
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\bin\Debug\DAL.pdb
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Properties.Resources.resources
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\WindowsFormsApplication2.ShowForm.resources
+C:\Users\zakaria\Desktop\ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csproj.GenerateResource.Cache
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.exe
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.pdb
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.exe
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.pdb
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\BO.dll
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\DAL.dll
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\BO.pdb
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\DAL.pdb
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\WindowsFormsApplication2.MainForm.resources
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Properties.Resources.resources
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\WindowsFormsApplication2.ShowForm.resources
+C:\Users\zakaria\Desktop\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csproj.GenerateResource.Cache
+H:\হাবিজাবি\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.exe
+H:\হাবিজাবি\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.exe
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.exe
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\UI-Desktop.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\BO.dll
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\DAL.dll
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\BO.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\bin\Debug\DAL.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csprojResolveAssemblyReference.cache
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\WindowsFormsApplication2.MainForm.resources
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI_Desktop.Properties.Resources.resources
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\WindowsFormsApplication2.ShowForm.resources
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\UI-Desktop\obj\x86\Debug\UI-Desktop.csproj.GenerateResource.Cache

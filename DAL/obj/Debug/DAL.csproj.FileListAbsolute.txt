@@ -1,0 +1,20 @@
+D:\ThreeLayerTest\DAL\bin\Debug\DAL.dll
+D:\ThreeLayerTest\DAL\bin\Debug\DAL.pdb
+D:\ThreeLayerTest\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\ThreeLayerTest\DAL\obj\Debug\DAL.dll
+D:\ThreeLayerTest\DAL\obj\Debug\DAL.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\DAL\bin\Debug\DAL.dll
+C:\Users\Sabuj\Desktop\ThreeLayerTest\DAL\bin\Debug\DAL.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Sabuj\Desktop\ThreeLayerTest\DAL\obj\Debug\DAL.dll
+C:\Users\Sabuj\Desktop\ThreeLayerTest\DAL\obj\Debug\DAL.pdb
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\DAL\obj\Debug\DAL.dll
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\DAL\bin\Debug\DAL.dll
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\DAL\bin\Debug\DAL.pdb
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\DAL\obj\Debug\DAL.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\DAL\bin\Debug\DAL.dll
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\DAL\bin\Debug\DAL.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\DAL\obj\Debug\DAL.dll
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\DAL\obj\Debug\DAL.pdb

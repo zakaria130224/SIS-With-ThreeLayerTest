@@ -1,0 +1,28 @@
+D:\ThreeLayerTest\BO\bin\Debug\BO.dll
+D:\ThreeLayerTest\BO\bin\Debug\BO.pdb
+D:\ThreeLayerTest\BO\obj\Debug\ResolveAssemblyReference.cache
+D:\ThreeLayerTest\BO\obj\Debug\BO.dll
+D:\ThreeLayerTest\BO\obj\Debug\BO.pdb
+D:\ThreeLayerTest\BO\bin\Debug\DAL.dll
+D:\ThreeLayerTest\BO\bin\Debug\DAL.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\BO\bin\Debug\BO.dll
+C:\Users\Sabuj\Desktop\ThreeLayerTest\BO\bin\Debug\BO.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\BO\bin\Debug\DAL.dll
+C:\Users\Sabuj\Desktop\ThreeLayerTest\BO\bin\Debug\DAL.pdb
+C:\Users\Sabuj\Desktop\ThreeLayerTest\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\Sabuj\Desktop\ThreeLayerTest\BO\obj\Debug\BO.dll
+C:\Users\Sabuj\Desktop\ThreeLayerTest\BO\obj\Debug\BO.pdb
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\BO\bin\Debug\BO.dll
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\BO\bin\Debug\BO.pdb
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\BO\bin\Debug\DAL.dll
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\BO\bin\Debug\DAL.pdb
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\BO\obj\Debug\BO.dll
+C:\Users\zakaria\Downloads\Shareit\Document\ThreeLayerTest\BO\obj\Debug\BO.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\BO\bin\Debug\BO.dll
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\BO\bin\Debug\BO.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\BO\bin\Debug\DAL.dll
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\BO\bin\Debug\DAL.pdb
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\BO\obj\Debug\BO.dll
+I:\MY PROGRAMMING\visual\SIS With ThreeLayerTest\BO\obj\Debug\BO.pdb
